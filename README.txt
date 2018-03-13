@@ -1,0 +1,1 @@
+We attended Google Hash Code competition on 2018 at KU Leuven Hub. We managed to design an algorithm gaining 35M points while maximum is 50M. 
